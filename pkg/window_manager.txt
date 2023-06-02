@@ -1,0 +1,3 @@
+gdm
+nautilus
+gnome-terminal

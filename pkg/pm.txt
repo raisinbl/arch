@@ -1,0 +1,9 @@
+github-cli
+vi
+vim
+networkmanager
+iwd
+dhcpcd
+dhcpclinet
+fakeroot
+paru-bin
