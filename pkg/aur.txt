@@ -1,5 +1,2 @@
 visual-studio-code-insiders-bin
 microsoft-edge-stable-bin
-docker
-7-zip
-wget

@@ -7,3 +7,8 @@ dhcpcd
 dhcpclinet
 fakeroot
 paru-bin
+docker
+python
+7-zip
+wget
+openjdk
