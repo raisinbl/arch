@@ -1,5 +1,4 @@
 fakeroot
-paru
 github-cli
 vi
 vim
