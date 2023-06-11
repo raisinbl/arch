@@ -9,5 +9,4 @@ docker
 python
 p7zip
 wget
-openjdk
 unzip
