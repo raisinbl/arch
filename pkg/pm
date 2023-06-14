@@ -10,3 +10,4 @@ p7zip
 wget
 unzip
 neofetch
+rsync
