@@ -7,3 +7,5 @@ cd paru
 makepkg -is 
 ```
 
+copy config file:
+rsync -Pr cfg/ $HOME
