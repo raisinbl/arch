@@ -4,7 +4,6 @@ vi
 vim
 networkmanager
 iwd
-dhcpcd
 docker
 python
 p7zip
