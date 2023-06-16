@@ -9,3 +9,9 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 # PS1='[\u@\h \W]\$ '
 PS1="\[\033[01;35m\]\u@\[\033[01;34m\]\h:\[\033[01;36m\]\W\[\033[00m\] $ "
+
+# ibus-unikey
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export QT_IM_MODULE=ibus
+
