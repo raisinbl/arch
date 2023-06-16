@@ -11,3 +11,5 @@ wget
 unzip
 neofetch
 rsync
+pipewire
+wireplumber
