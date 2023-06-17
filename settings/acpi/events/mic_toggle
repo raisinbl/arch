@@ -1,0 +1,2 @@
+event=button\/f20
+action=/etc/acpi/sound-handler.sh %e
