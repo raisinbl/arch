@@ -1,6 +1,10 @@
+brightnessctl
+bluez
+bluez-utils
+pipewire
+wireplumber
 fakeroot
 github-cli
-vi
 vim
 networkmanager
 iwd
@@ -11,5 +15,8 @@ wget
 unzip
 neofetch
 rsync
-pipewire
-wireplumber
+bash-completion
+xorg-xinit
+acpid
+wl-clipboard
+grim

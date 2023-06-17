@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/etc/acpi/events'
+let g:netrw_dirhist_5='/home/dell/arch/cfg/.config/hypr'
+let g:netrw_dirhist_4='/etc/lemurs/wayland'
 let g:netrw_dirhist_3='/etc/systemd'
 let g:netrw_dirhist_2='/home/dell/.vim'
 let g:netrw_dirhist_1='/etc/sway/config.d'
