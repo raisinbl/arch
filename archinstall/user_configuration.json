@@ -1,0 +1,42 @@
+{
+    "archinstall-language": "English",
+    "audio": "pipewire",
+    "bootloader": "systemd-bootctl",
+    "config_version": "2.5.6",
+    "debug": false,
+    "guided": true,
+    "harddrives": [
+        "/dev/nvme0n1"
+    ],
+    "hostname": "ideapad",
+    "keyboard-layout": "us",
+    "mirror-region": {
+        "Vietnam": {
+            "http://mirror.bizflycloud.vn/archlinux/$repo/os/$arch": true
+        }
+    },
+    "nic": {
+        "dhcp": true,
+        "dns": null,
+        "gateway": null,
+        "iface": null,
+        "ip": null,
+        "type": "nm"
+    },
+    "no_pkg_lookups": false,
+    "ntp": true,
+    "offline": false,
+    "packages": [
+        "vim",
+        "git"
+    ],
+    "profile": {
+        "path": "/usr/lib/python3.11/site-packages/archinstall/profiles/minimal.py"
+    },
+    "script": "guided",
+    "silent": false,
+    "sys-encoding": "utf-8",
+    "sys-language": "en_US",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "version": "2.5.6"
+}

@@ -1,0 +1,10 @@
+brightnessctl
+bluez
+bluez-utils
+pipewire
+wireplumber
+fakeroot
+vim
+networkmanager
+rsync
+acpid

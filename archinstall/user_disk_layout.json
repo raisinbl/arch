@@ -1,0 +1,48 @@
+{
+    "/dev/nvme0n1": {
+        "partitions": [
+            {
+                "ESP": true,
+                "PARTUUID": "05e29dd0-2184-0f41-9477-cbbc9ec27299",
+                "boot": true,
+                "encrypted": false,
+                "filesystem": {
+                    "format": "vfat"
+                },
+                "mountpoint": "/boot",
+                "size": 2097152,
+                "start": 2048,
+                "type": "primary",
+                "wipe": false
+            },
+            {
+                "ESP": false,
+                "PARTUUID": "7e91bdd0-9929-aa4e-8096-38303f30cf46",
+                "boot": false,
+                "encrypted": false,
+                "filesystem": {
+                    "format": "swap"
+                },
+                "mountpoint": null,
+                "size": 8388608,
+                "start": 2099200,
+                "type": "primary",
+                "wipe": false
+            },
+            {
+                "ESP": false,
+                "PARTUUID": "98579690-bfa9-8a4c-8a44-840fe53a3800",
+                "boot": false,
+                "encrypted": false,
+                "filesystem": {
+                    "format": "ext4"
+                },
+                "mountpoint": "/",
+                "size": 989726720,
+                "start": 10487808,
+                "type": "primary",
+                "wipe": false
+            }
+        ]
+    }
+}

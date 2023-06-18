@@ -1,12 +1,11 @@
-#! bin/bash
+#!/bin/bash
 
 # update package management and install depedency 
 sudo pacman -Syu && sudo pacman -S --needed -< pkg/pm 
 
 # install AUR helper
 git clone https://aur.archlinux.org/paru-bin.git
-cd paru ; makepkg -is
-cd ..
+makepkg -is paru-bin/
 
 export wm=hyprland
 # install windows manager
