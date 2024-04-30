@@ -3,7 +3,6 @@ avizo
 clipmon-git
 cloudflare-warp-bin
 corepad
-ctpv
 dmenu-wayland-git
 dmg2img
 emote
@@ -13,7 +12,6 @@ grimshot-bin-sway
 ibus-bamboo
 intellij-idea-ultimate-edition
 mariadb-jdbc
-micromamba-bin
 microsoft-edge-stable-bin
 miniconda3
 mysql-connector-java
@@ -21,12 +19,9 @@ notify-send.sh
 nwg-bar-bin
 nwg-displays
 nwg-drawer-bin
-onedrive-abraunegg
 paru-bin
 python2-bin
 rustdesk-bin
-spotx-linux
-tp-battery-mode
 ttf-ms-fonts
 ttf-symbola
 visual-studio-code-insiders-bin

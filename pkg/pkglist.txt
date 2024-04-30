@@ -34,7 +34,6 @@ fcitx5-bamboo
 fcitx5-configtool
 fcitx5-gtk
 fcitx5-qt
-fcitx5-unikey
 ffmpegthumbnailer
 foomatic-db-gutenprint-ppds
 foot
@@ -85,7 +84,6 @@ nodejs
 noto-fonts-emoji
 oath-toolkit
 obs-studio
-ollama
 openbsd-netcat
 openvpn
 osv-scanner
@@ -113,7 +111,6 @@ python-pynvim
 python-pyopenssl
 qbittorrent
 qemu-full
-redshift
 rofi-emoji
 rsync
 sddm

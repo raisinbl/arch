@@ -1,0 +1,3 @@
+[submodule "utils/ideapad-perf"]
+	path = utils/ideapad-perf
+	url = https://github.com/korikori/ideapad-perf
