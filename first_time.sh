@@ -10,7 +10,7 @@ if [ -x "$(command -v paru)" ]; then
 	echo "paru is already installed"
 else
 	git clone https://aur.archlinux.org/paru-bin.git /tmp/paru-bin
-	makepkg -siC --skipchecksums /tmp/paru-bin
+	makepkg -si -D /tmp/paru-bin
 fi
 
 # install AUR packages

@@ -45,6 +45,7 @@ github-cli
 gnome-disk-utility
 gnome-keyring
 gnu-free-fonts
+go
 grim
 gtkmm
 gutenprint
