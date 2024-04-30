@@ -1,16 +1,17 @@
 #!/bin/bash
 
+current_dir=$(dirname $(realpath $0))
+
 # update package management and install depedency 
-sudo pacman -Syu && sudo pacman -S --needed -< pkg/pm 
+sudo pacman -Syu && sudo pacman -S --needed -< $current_dir/pkg/pkglist.txt
 
-# install AUR helper
-git clone https://aur.archlinux.org/paru-bin.git
-makepkg -is paru-bin/
+# check if paru is already installed, if not install it
+if [ -x "$(command -v paru)" ]; then
+	echo "paru is already installed"
+else
+	git clone https://aur.archlinux.org/paru-bin.git /tmp/paru-bin
+	makepkg -siC --skipchecksums /tmp/paru-bin
+fi
 
-export wm=hyprland
-# install windows manager
-sudo pacman -S --needed -< wm/$wm/pm
-paru -S --needed -< wm/$wm/aur
-
-# config
-rsync -r cfg/ $HOME
+# install AUR packages
+paru -S --needed -< $current_dir/pkg/pkglist_aur.txt
