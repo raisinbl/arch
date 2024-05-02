@@ -52,6 +52,7 @@ gvfs-afc
 gvfs-gphoto2
 helm
 hyprland
+hyprlock
 ibus-unikey
 ifuse
 inetutils
@@ -136,6 +137,7 @@ usbutils
 vi
 vim
 vimiv
+virt-manager
 vlc
 waybar
 waylock

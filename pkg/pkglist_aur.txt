@@ -12,6 +12,7 @@ grimshot-bin-sway
 ibus-bamboo
 intellij-idea-ultimate-edition
 mariadb-jdbc
+micromamba-bin
 microsoft-edge-stable-bin
 miniconda3
 mysql-connector-java
