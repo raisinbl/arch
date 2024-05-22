@@ -1,6 +1,7 @@
 anydesk-bin
 avizo
 clipmon-git
+cloudflare-warp-bin
 corepad
 datagrip
 dmg2img
@@ -10,8 +11,6 @@ epub-thumbnailer-git
 go-task-bin
 goland
 grimshot-bin-sway
-ibus-bamboo-git
-ibus-daemon
 intellij-idea-ultimate-edition
 jetbrains-gateway
 libtiff5
@@ -19,7 +18,6 @@ mariadb-jdbc
 micromamba-bin
 microsoft-edge-stable-bin
 miniconda3
-mysql-connector-java
 nerd-fonts-noto-sans-regular-complete
 notify-send.sh
 nwg-bar-bin
@@ -30,7 +28,6 @@ otf-intel-one-mono
 paru-bin
 paru-bin-debug
 python2-bin
-rustdesk-bin
 spotx-linux
 telegram-desktop-bin
 tp-battery-mode
@@ -40,6 +37,5 @@ ttf-ms-fonts
 ttf-symbola
 visual-studio-code-insiders-bin
 vmware-workstation
-wkhtmltox-bin
 wlr-randr-git
 wps-office

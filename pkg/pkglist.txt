@@ -15,8 +15,8 @@ bpython
 brightnessctl
 catdoc
 cifs-utils
+cliphist
 cmake
-copyq
 cups-pdf
 ddcutil
 ddrescue
@@ -48,8 +48,9 @@ gutenprint
 gvfs-afc
 gvfs-gphoto2
 helm
+hypridle
 hyprland
-ibus-unikey
+hyprlock
 ifuse
 inetutils
 intel-ucode
@@ -112,7 +113,6 @@ python-poetry
 python-pynvim
 python-pyopenssl
 qbittorrent
-qemu-full
 rofi-emoji
 rsync
 sddm
@@ -122,8 +122,6 @@ stow
 swayidle
 swaylock
 swaync
-thunderbird
-thunderbird-dark-reader
 tlp
 tmux
 trash-cli
