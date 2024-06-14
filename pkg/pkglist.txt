@@ -16,6 +16,7 @@ brightnessctl
 catdoc
 cifs-utils
 cliphist
+clonezilla
 cmake
 cups-pdf
 ddcutil
@@ -36,10 +37,12 @@ ffmpegthumbnailer
 foomatic-db-gutenprint-ppds
 fuzzel
 git
+git-lfs
 github-cli
 gnome-disk-utility
 gnome-keyring
 gnu-free-fonts
+gparted
 gradle
 grim
 grub
@@ -48,6 +51,7 @@ gutenprint
 gvfs-afc
 gvfs-gphoto2
 helm
+hwinfo
 hypridle
 hyprland
 hyprlock
@@ -122,6 +126,7 @@ stow
 swayidle
 swaylock
 swaync
+tk
 tlp
 tmux
 trash-cli
@@ -139,6 +144,7 @@ virt-manager
 vlc
 waybar
 waylock
+wayvnc
 wezterm
 wget
 wireplumber

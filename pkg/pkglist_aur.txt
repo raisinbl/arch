@@ -28,7 +28,9 @@ otf-intel-one-mono
 paru-bin
 paru-bin-debug
 python2-bin
+rustdesk-bin
 spotx-linux
+teamviewer
 telegram-desktop-bin
 tp-battery-mode
 ttf-intel-one-mono
@@ -37,5 +39,6 @@ ttf-ms-fonts
 ttf-symbola
 visual-studio-code-insiders-bin
 vmware-workstation
+wish
 wlr-randr-git
 wps-office
