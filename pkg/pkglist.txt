@@ -2,7 +2,10 @@ aardvark-dns
 acpid
 alacritty
 alsa-utils
+arandr
 archinstall
+autorandr
+awesome
 base
 base-devel
 bash-completion
@@ -35,6 +38,7 @@ fcitx5-gtk
 fcitx5-qt
 ffmpegthumbnailer
 foomatic-db-gutenprint-ppds
+freerdp
 fuzzel
 git
 git-lfs
@@ -42,7 +46,6 @@ github-cli
 gnome-disk-utility
 gnome-keyring
 gnu-free-fonts
-gparted
 gradle
 grim
 grub
@@ -77,7 +80,6 @@ lxsession-gtk3
 mako
 man-db
 man-pages
-mariadb
 maven
 minikube
 mpv
@@ -90,7 +92,6 @@ noto-fonts-emoji
 npm
 oath-toolkit
 obs-studio
-ollama
 open-vm-tools
 openbsd-netcat
 openvpn
@@ -100,6 +101,7 @@ pamixer
 pass
 pavucontrol
 pcmanfm-gtk3
+picom
 pipewire
 podman
 podman-compose
@@ -117,11 +119,13 @@ python-poetry
 python-pynvim
 python-pyopenssl
 qbittorrent
+remmina
 rofi-emoji
 rsync
 sddm
 seahorse
 slurp
+speedtest-cli
 stow
 swayidle
 swaylock
@@ -129,6 +133,7 @@ swaync
 tk
 tlp
 tmux
+torbrowser-launcher
 trash-cli
 tree
 ttf-hannom
@@ -147,6 +152,7 @@ waylock
 wayvnc
 wezterm
 wget
+wireguard-tools
 wireplumber
 wl-clipboard
 wlroots
@@ -164,6 +170,7 @@ xorg-xlsclients
 yt-dlp
 zathura
 zathura-pdf-poppler
+zed
 zellij
 zip
 zoxide
