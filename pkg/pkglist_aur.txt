@@ -11,7 +11,6 @@ emote
 epub-thumbnailer-git
 extundelete
 forticlient-vpn
-ipscan-bin
 microsoft-edge-stable-bin
 miniconda3
 notify-send.sh
