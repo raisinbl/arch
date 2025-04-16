@@ -100,11 +100,11 @@ nwg-bar
 nwg-displays
 oath-toolkit
 obs-studio
+open-vm-tools
 openbsd-netcat
 openvpn
 pacman-contrib
 pamixer
-pandoc-cli
 pass
 pass-otp
 patch

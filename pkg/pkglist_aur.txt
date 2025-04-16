@@ -5,14 +5,12 @@ clipboard
 cloudflare-warp-bin
 conda-zsh-completion
 corepad
-datagrip
 dmenu-wayland-git
 dmg2img
 emote
 epub-thumbnailer-git
 extundelete
 forticlient-vpn
-intellij-idea-ultimate-edition
 ipscan-bin
 microsoft-edge-stable-bin
 miniconda3
@@ -23,6 +21,7 @@ python2-bin
 telegram-desktop-bin
 ttf-intel-one-mono
 usbimager-bin
+ventoy-bin
 visual-studio-code-bin
 vmware-workstation
 wlogout
