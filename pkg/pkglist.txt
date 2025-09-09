@@ -95,6 +95,7 @@ network-manager-applet
 networkmanager
 networkmanager-openvpn
 nmap
+noto-fonts
 noto-fonts-emoji
 nwg-bar
 nwg-displays
@@ -126,7 +127,6 @@ python-pipx
 python-poetry
 python-pynvim
 python-pyopenssl
-qemu-full
 remmina
 rofi-emoji
 rsync
@@ -163,7 +163,6 @@ which
 wireplumber
 wl-clipboard
 wlr-randr
-wlroots
 wlsunset
 wmctrl
 wofi

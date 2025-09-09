@@ -22,7 +22,6 @@ ttf-intel-one-mono
 usbimager-bin
 ventoy-bin
 visual-studio-code-bin
-vmware-workstation
 wlogout
 wps-office
 wscat
