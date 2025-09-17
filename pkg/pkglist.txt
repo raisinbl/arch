@@ -23,6 +23,7 @@ brightnessctl
 cameractrls
 catdoc
 cmake
+cliphist
 cups-pdf
 ddcutil
 ddrescue
